@@ -7,8 +7,8 @@
 ### Don't create a Pull Request changing the text above! Only the below ones are part of the challenge
 
 ## Contributors Table
-you great I can do all things
-
+you great, I can do all things
+yes we can
 
 ## Add your information creating a new row above the last row in the table below!
 
